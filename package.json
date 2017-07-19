@@ -1,0 +1,24 @@
+{
+  "name": "butterfly-curve",
+  "version": "1.0.0",
+  "description": "The famous equation of the butterfly curve",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/butterfly-curve-js.git"
+  },
+  "keywords": [
+    "math",
+    "parametric",
+    "equation"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/butterfly-curve-js/issues"
+  },
+  "homepage": "https://github.com/diversen/butterfly-curve-js#readme"
+}
